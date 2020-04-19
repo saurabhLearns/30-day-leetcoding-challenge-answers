@@ -1,3 +1,5 @@
+#contest url: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/
+
 # import sys
 class Solution:
 	def minPathSum(self, grid: List[List[int]]) -> int:
