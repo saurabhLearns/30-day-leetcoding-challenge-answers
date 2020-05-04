@@ -7,9 +7,6 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-
-	
-	
     def maxPathSum(self, root: TreeNode) -> int:
         self.maximum = float('-inf')
         def sumreturn(root):
